@@ -13,7 +13,7 @@ classroom while minimizing disruption and maximizing classroom utilization.
 
 import java.util.*;
 
-public class ClassroomSchedule {
+public class gitClassroomSchedule {
 
     static class ClassEntry {
         int start, end;
